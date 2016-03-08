@@ -1,0 +1,16 @@
+.bgimage
+{
+	background-image:url('../images/1.jpg');
+	background-position: center center;
+	height:200px;
+	background-size: cover;
+}
+.first
+{
+	
+	margin:auto;
+	width:350px;
+	height:450px;
+	text-align:center;
+	float:left;
+}
