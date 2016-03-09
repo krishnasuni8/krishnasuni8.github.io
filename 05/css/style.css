@@ -1,0 +1,35 @@
+
+.bgimage
+{
+	background-image:url('../images/1.jpg');
+	background-position: center center;
+	height:200px;
+	background-size: cover;
+}
+.first
+{
+	background-color:#FFF;
+    padding:20px 20px 10px 20px;
+    margin-top:30px;
+}
+ .first h1
+{
+	text-align:center;
+	margin:0;
+    padding-bottom:20px;
+    
+}
+#done-items li
+{
+    padding:10px 0;
+    border-bottom:1px solid #ddd;
+    text-decoration:line-through;
+}
+#done-items li:last-child
+{
+    border-bottom:none;
+}
+#checkAll{
+    margin-top:10px;
+}
+
