@@ -1,0 +1,27 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	color:white;
+}
+.banner
+{
+	background:url(../images/1.jpg);
+	background-size:cover;
+	min-height:750px;
+}
+.header 
+{
+    background-color:transparent;
+    padding: 1.5em 0;
+}
+.title
+{
+	margin:0px;
+	color:#ccc;
+	font-size:30px;
+	
+}
