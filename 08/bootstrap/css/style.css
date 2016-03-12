@@ -1,0 +1,41 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	color:black;
+}
+.banner
+{
+	background:url(../images/1.jpg);
+	background-size:cover;
+	min-height:750px;
+}
+.header 
+{
+    background-color:transparent;
+    padding: 1.5em 0;
+	
+}
+.title
+{
+	margin:0px;
+	color:#337AB7;
+	font-size:30px;
+	text-align:center;
+	
+}
+.container
+{
+	margin-top:1em;
+}
+@media(max-width=500px)
+{
+.img-responsive
+{
+	max-width:30%;
+	min-width:200px;
+}
+}
